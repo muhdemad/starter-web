@@ -25,4 +25,4 @@ ksdlajsbdlvjhsbdfjlvhsbdfjvhbsdfkjvhbdf
 
 ## Copyright
 
-Git.Training 2022
+Git.Training 2022, all rights reserved
