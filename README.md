@@ -18,3 +18,7 @@ Sample website with plenty of files for demos
 
 connttttttttrbuuutteee
 asasdasdas
+
+## Copyright
+
+Git.Training 2022
