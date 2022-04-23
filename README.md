@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-moooore txxxtttttt rebaaaasing, morre changes.
-more
+moooore txxxtttttt rebaaaasing, emergency fix after stashing.
 
 ## Introduction
 
